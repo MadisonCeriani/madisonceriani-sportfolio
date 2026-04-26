@@ -283,6 +283,13 @@ h3 {
   margin-top: 0.8rem;
 }
 
+.artifact-image {
+  width: 100%;
+  border-radius: var(--radius-sm);
+  border: 1px solid #e2c0c9;
+  background: #fff;
+}
+
 .placeholder-block {
   border: 1px dashed #d8afba;
   min-height: 180px;
